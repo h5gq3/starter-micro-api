@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.2.41"
+    "aws-sdk": "^2.2.41",
+    "puppeteer": "19.7.5"
   }
 }
